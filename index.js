@@ -24,6 +24,6 @@ function iLoveTheBeatles(number) {
   
   do {
     a.push("I love the Beatles")
-    }while ([])
+    }while ()
   }
 }
