@@ -1,4 +1,4 @@
-function Beatles Loops() {
+function BeatlesLoops() {
   const mus = ["John Lennon", "Paul McCartney", "George Harrison", "Ringo Starr"]
 
 const inst = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"]
