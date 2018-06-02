@@ -23,7 +23,7 @@ function iLoveTheBeatles(number) {
   var a = [];
   
   do {
-    ["I love the Beatles"]
+    a.push("I love the Beatles")
     }while ([])
   }
 }
